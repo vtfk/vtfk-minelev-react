@@ -60,7 +60,7 @@
     "react-scripts": "4.0.3",
     "react-scrolllock": "5.0.1",
     "sass": "1.32.13",
-    "vtfk-schools-info": "1.1.2"
+    "vtfk-schools-info": "3.1.0"
   },
   "devDependencies": {
     "@testing-library/jest-dom": "5.14.1",
