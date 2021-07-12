@@ -40,8 +40,8 @@
     "node": ">=12.0.0"
   },
   "dependencies": {
-    "@sentry/react": "6.2.5",
-    "@sentry/tracing": "6.2.5",
+    "@sentry/react": "6.9.0",
+    "@sentry/tracing": "6.9.0",
     "@vtfk/components": "0.2.1",
     "@vtfk/react-msal": "1.0.9",
     "express": "4.17.1",
